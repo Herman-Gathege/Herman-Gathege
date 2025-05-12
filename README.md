@@ -43,7 +43,7 @@ A **Junior Software Engineer** skilled in **Python (Flask)** and **JavaScript**,
 
 ## 🔑 Tech Projects
 
-### 💼 [Client Portfolio Website](https://github.com/Herman-Gathege/portfolio-website)
+### 💼 [Client Portfolio Website](https://github.com/Herman-Gathege/Hylease--Asena)
 - **Tech**: JavaScript, HTML/CSS, SEO
 - Developed a **responsive portfolio website** for a creative professional to showcase their work and services.
 - Implemented **SEO best practices**, integrated **Google Search Console**, and optimized for better discoverability.
