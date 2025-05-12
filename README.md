@@ -48,7 +48,7 @@ A **Junior Software Engineer** skilled in **Python (Flask)** and **JavaScript**,
 - Developed a **responsive portfolio website** for a creative professional to showcase their work and services.
 - Implemented **SEO best practices**, integrated **Google Search Console**, and optimized for better discoverability.
 
-### 🏥 [Hospital Management Application](https://github.com/Herman-Gathege/hospital-management-app)
+### 🏥 [Hospital Management Application](https://github.com/Herman-Gathege/Hospital-Manager-App)
 - **Tech**: Flask, React.js, PostgreSQL, Supabase
 - Developed a **hospital dashboard** to streamline patient management, billing, appointments, and inventory operations.
 - Integrated **JWT-based authentication** and **role-based access control**.
@@ -60,12 +60,12 @@ A **Junior Software Engineer** skilled in **Python (Flask)** and **JavaScript**,
 - Implemented **user authentication** and developed APIs for **art uploads**, **profile management**, and **event handling**.
 - Hosted the platform on **Render**.
 
-### 🛒 [E-commerce Store](https://github.com/Herman-Gathege/e-commerce-store)
+### 🛒 [E-commerce Store](https://github.com/Herman-Gathege/e-commerce-template)
 - **Tech**: React.js, Node.js/Express, MongoDB, Stripe
 - Developed a full-stack **e-commerce platform**, integrating **MongoDB** for data management and **Stripe** for payment processing.
 - Created an **admin dashboard** to manage products, analytics, and promotions.
 
-### 📚 [EduLearn Education Platform](https://github.com/Herman-Gathege/edu-learn-platform)
+### 📚 [EduLearn Education Platform](https://github.com/Herman-Gathege/Edu-Learn-new)
 - **Tech**: React.js, Flask, PostgreSQL
 - Built a **dynamic education platform** with secure user authentication and interactive course listings.
 - Integrated **PostgreSQL** and developed RESTful API routes for user and course management.
@@ -93,7 +93,7 @@ June 2024 – December 2024
 
 Feel free to reach out for freelance opportunities, collaboration, or just to chat about tech!  
 📧 **Email**: remingtonherman7@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/herman-gathege-1a5197330) | [GitHub](https://github.com/Herman-Gathege) | [Portfolio](https://herman-gathege.github.io/portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/herman-gathege-1a5197330) | [GitHub](https://github.com/Herman-Gathege) | [Portfolio](https://my-portfolio-7v1e.onrender.com)
 
 ---
 
