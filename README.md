@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Herman Remington
 
-🚀 **Backend-Focused Full-Stack Engineer**  
-📍 Kenya | Open to international opportunities & relocation  
-📧 remingtonherman7@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/herman-gathege-1a5197330) | [Portfolio](https://my-portfolio-7v1e.onrender.com)
+ **Backend-Focused Full-Stack Engineer**  
+ Kenya | Open to international opportunities & relocation  
+ remingtonherman7@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/herman-gathege-1a5197330) | [Portfolio](https://my-portfolio-7v1e.onrender.com)
 
 ---
 
-## 🧠 Profile
+##  Profile
 
 Backend-focused full-stack engineer specializing in building **scalable SaaS platforms**, **REST APIs**, and **data-driven applications**.
 
@@ -17,7 +17,7 @@ Strong focus on **clean architecture, performance, and real-world business impac
 
 ---
 
-## ⚙️ Core Technologies
+##  Core Technologies
 
 - **Backend**: Python (Flask), SQLAlchemy, REST APIs  
 - **Frontend**: React.js, JavaScript (ES6+)  
@@ -29,7 +29,7 @@ Strong focus on **clean architecture, performance, and real-world business impac
 
 ---
 
-## 🏗️ What I Build
+##  What I Build
 
 - Scalable **SaaS platforms** for SMEs and startups  
 - Secure **backend APIs** and authentication systems  
@@ -39,7 +39,7 @@ Strong focus on **clean architecture, performance, and real-world business impac
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Freelance Full-Stack Developer (2025 – Present)
 - Developed and deployed a **production-ready portfolio platform** for a client, optimized for performance and SEO.
@@ -54,9 +54,9 @@ Strong focus on **clean architecture, performance, and real-world business impac
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏪 SME Management SaaS Platform
+###  SME Management SaaS Platform
 **Tech:** Flask, React, PostgreSQL  
 
 Multi-tenant retail management system enabling businesses to manage:
@@ -71,7 +71,7 @@ Multi-tenant retail management system enabling businesses to manage:
 
 ---
 
-### 🏥 Hospital Management System  
+###  Hospital Management System  
 **Tech:** Flask, React, PostgreSQL, Supabase  
 
 Full-stack healthcare platform for managing:
@@ -96,7 +96,7 @@ Full-featured e-commerce system with:
 
 ---
 
-### 🎨 Creative Marketplace Platform  
+###  Creative Marketplace Platform  
 **Tech:** React, Flask, PostgreSQL  
 
 Platform connecting artists with buyers globally:
@@ -106,7 +106,7 @@ Platform connecting artists with buyers globally:
 
 ---
 
-## 📈 Impact
+##  Impact
 
 - Improved system performance through optimized API and database design  
 - Built applications supporting **real-world business operations**  
@@ -114,16 +114,16 @@ Platform connecting artists with buyers globally:
 
 ---
 
-## 🌍 Open to Opportunities
+##  Open to Opportunities
 
 Actively exploring **backend and full-stack engineering roles**, including relocation opportunities in Europe.
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 remingtonherman7@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/herman-gathege-1a5197330)
+ remingtonherman7@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/herman-gathege-1a5197330)
 
 ---
 
