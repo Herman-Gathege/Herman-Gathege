@@ -86,7 +86,7 @@ Full-stack healthcare platform for managing:
 
 ---
 
-### 🛒 E-Commerce Platform  
+###  E-Commerce Platform  
 **Tech:** React, Node.js, MongoDB, Stripe  
 
 Full-featured e-commerce system with:
